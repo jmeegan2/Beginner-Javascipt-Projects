@@ -4,20 +4,21 @@
     padding: 0;
 }
 
-body{
+body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content:  center;
     align-items: center;
     height: 100vh;
 }
-.emoji{
+.emoji {
     font-size:  10rem;
     cursor: pointer;
     user-select: none;
 }
 
 .closed {
+
     display: none;
 }
 
